@@ -33,10 +33,10 @@ function calculate() {
   }
 
   if ((res) => 0) {
-    box.textContent = "დადებიათია";
+    box.textContent = "დადებითია";
     box.style.backgroundColor = "Green";
   } else {
-    box.textContent = "უარყოფიოთია";
+    box.textContent = "უარყოფითია";
     box.style.backgroundColor = "Red";
   }
 }
