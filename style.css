@@ -25,6 +25,7 @@ body .mini-calculator .calc input:nth-child(2) {
 
 body .mini-calculator .calc button {
   width: 100%;
+  margin-top: 1rem;
   padding: 1rem 0rem;
 }
 body .mini-calculator .calc button:hover {

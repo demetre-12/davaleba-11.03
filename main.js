@@ -20,6 +20,4 @@ function calculate() {
       e.textContent = x / y;
       break;
   }
-
-  writeDown(x, y);
 }
