@@ -11,6 +11,16 @@ body .mini-calculator .calc {
   background-color: rgb(205, 205, 224);
 }
 
+body .mini-calculator .status {
+  width: 60%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  padding: 5rem;
+  margin: 2rem 24rem;
+} 
+
 body .mini-calculator .calc input {
   width: 100%;
   padding: 1rem 0px;
